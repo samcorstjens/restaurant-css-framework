@@ -13,9 +13,9 @@ Hoe ziet het ter uit? : Persoonlijk vind ik dit een goede website. Het voldoet a
 
 Progressie? : Zoals ik al zei vind ik dit een goede website maar misschien dat ik in de toekomst toe nog wat eigen dingen                     toevoeg.
 
-Wat zit erin? : Voor deze site heb ik vooral gebruik gemaakt van Bootstrap en een beetje van Pure.
+Wat zit erin? : Voor deze site heb ik vooral gebruik gemaakt van Bootstrap. Er zit ook wat pure in verwerkt en wat afbeeldingen van Font Awesome.
 
-Hoe je het moet installeren? : Je kunt mijn site gewoon zien via de link hierboven. Als je bootstrap zelf wil downloaden moet                                  je [hier](https://getbootstrap.com/) kijken. Indien je intresse hebt in Pure, kijk dan [hier](https://purecss.io/).
+Hoe je het moet installeren? : Je kunt mijn site gewoon zien via de link hierboven. Als je bootstrap zelf wil downloaden moet                                  je [hier](https://getbootstrap.com/) kijken. Indien je intresse hebt in Pure, kijk dan [hier](https://purecss.io/). De link [hier](https://fontawesome.com/) brengt je naar Font Awesome.
 
 Waar komen deze programma's vandaan? : Beide komen uit de opleidings opdrachten van Becode.
 
